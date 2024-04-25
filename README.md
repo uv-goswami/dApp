@@ -16,4 +16,10 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20013842.png)
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20013908.png)
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20013928.png)
+
+# Working
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20015323.png)
+
+# IPFS:-
+IPFS is a modular suite of protocols for organizing and transferring data, designed from the ground up with the principles of content addressing and peer-to-peer networking.
+In our case we are using Pinata to save our images.
