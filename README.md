@@ -36,4 +36,6 @@ In our case we are using Pinata to save our images.
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20013842.png)
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20013908.png)
 ![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20013928.png)
+## We can see our uploaded on Pinata.
+![](https://github.com/uv-goswami/dApp/blob/master/Output/Screenshot%202024-04-26%20120640.png)
 
